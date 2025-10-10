@@ -73,7 +73,7 @@
 
 Email: **baothien9900@gmail.com**  
 LinkedIn: [turtlee](https://www.linkedin.com/in/turtlee)  
-GitHub: [LiL-Turtle](https://github.com/LiL-Turtle)
+GitHub: [LiL-Turtle](https://github.com/LiL-Turtle)  
 📞 **Phone:** 0382143560
 
 <p align="center">Made with focus & curiosity • Updated: Oct 2025</p>
