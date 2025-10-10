@@ -2,13 +2,13 @@
 
 ### Hi, I'm Bao Thien (LiL Turtle)
 
-👨‍🎓 Final-year backend-focused developer (Java / Spring Boot) preparing for internship.  
-🤝 Collaborate on: Secure REST APIs, JWT auth, React + Spring integration.  
-🆘 Seeking: Backend Internship (Spring, API design, persistence, security).  
-🌱 Learning: Spring Security 6 • Docker • CI/CD • DB design • System design basics.  
-💬 Ask me about: REST architecture, DTO mapping, error handling, JPA basics.  
-⚡ Quick fact: Growth mindset • Clean code focus.  
-🎯 2025 Goal: Deploy containerized micro-service + polish 3 portfolio projects.
+👨‍🎓 Final-year Software Technology student at the Academy of Cryptography Techniques, focusing on backend development (Java / Spring Boot).
+🤝 Passionate about building secure RESTful APIs, JWT-based authentication, and React–Spring integrations.
+🆘 Currently seeking a Backend Internship to apply my skills in Spring Boot, API design, and application security.
+🌱 Continuously learning Spring Security 6, Docker, CI/CD pipelines, database design, and system architecture fundamentals.
+💬 Open to discussions about Spring Boot, Spring Data JPA, Spring Security, and RESTful API design
+⚡ Driven by a growth mindset and a commitment to writing clean, maintainable code.
+🏅 TOEIC 835 (Listening & Reading) – demonstrating strong English communication skills.
 
 ---
 
@@ -74,5 +74,6 @@
 Email: **baothien9900@gmail.com**  
 LinkedIn: [turtlee](https://www.linkedin.com/in/turtlee)  
 GitHub: [LiL-Turtle](https://github.com/LiL-Turtle)
+📞 **Phone:** 0382143560
 
 <p align="center">Made with focus & curiosity • Updated: Oct 2025</p>
